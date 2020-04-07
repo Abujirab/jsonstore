@@ -4,7 +4,11 @@
 "id":"",
 "name":"",
 "username":"",
-"email":""
+"email":"",
+"post": [{},{}],
+"feed": [{},{},{},{}],
+"comment":{},
+
 }
 ]
 
