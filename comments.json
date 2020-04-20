@@ -1,0 +1,29 @@
+{
+  "data": [{
+      "type": "comments",
+      "id": "1",
+      "attributes": {
+          "text": "HATEOS are the thing!"
+      },
+      "links": {
+          "self": "/comments/1"
+      },
+      "relationships": {
+        "author": {
+          "links": {
+            "self": "/comments/1/relationships/author",
+            "related": "/comments/1/author"
+          }
+        },
+        "articles": {
+          "links": {
+            "self": "/comments/1/relationships/articles",
+            "related": "/comments/1/articles"
+          }
+        }
+      }
+  }],
+  "links": {
+      "self": "/comments"
+  }
+}
