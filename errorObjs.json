@@ -1,12 +1,13 @@
 {
   "errors": [
     {
+          //status represent http status code associated with the problem
       "status": "422",
-                      // source indicates which part of the request caused an error
+          //source indicates which part of the request caused an error
       "source": { "pointer": "/data/attributes/firstName" },
-                      // title is generic to the occurence
+          //title is generic to the occurence
       "title":  "Invalid Attribute",
-                      // detail is specific to the occurence
+          //detail is specific to the occurence
       "detail": "First name must contain at least three characters."
     },
     {
