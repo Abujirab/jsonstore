@@ -1,2 +1,3 @@
-# JSONstore
-A typicode JSON server
+# A JSONstore
+> A collection of uses JSON schemas
+

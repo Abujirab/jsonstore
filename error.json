@@ -11,6 +11,12 @@
       "source": { "pointer": "/data/attributes/reputation" },
       "title": "The backend responded with an error",
       "detail": "Reputation service not responding after three requests."
-    }  
+    },
+    {
+      "status": "404",
+      "source": { "pointer": "/data/attributes/reputation" },
+      "title": "The backend responded with an error",
+      "detail": "Reputation service not responding after three requests."
+    },
   ]
 }
