@@ -1,3 +1,3 @@
 # A JSONstore
-> A collection of uses JSON schemas
+> A collection of useful JSON schemas
 
